@@ -15,7 +15,7 @@
 - 📫 How to reach me **jyotimehra32991@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
-<img align="right" height ="400px" src=coder_and_designer.gif>
+<img align="right" height ="350px" src=coder_and_designer.gif>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
