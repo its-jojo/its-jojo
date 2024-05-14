@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-jojo&label=Profile%20views&color=0e75b6&style=flat" alt="its-jojo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-jojo" alt="its-jojo" /></a> </p>
-<img align="right" height ="350px" src=coder_and_designer.gif>
+<img align="right" height ="300px" src=coder_and_designer.gif>
 - 🌱 I’m currently learning **CSS**
 
 - 🤝 I’m looking for help with **Web Developers**
